@@ -1,4 +1,4 @@
-# README: Dynamic Book List Program
+# Dynamic Book List Program
 
 ---
 
